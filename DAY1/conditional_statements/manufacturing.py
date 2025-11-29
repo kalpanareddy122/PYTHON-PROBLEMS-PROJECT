@@ -1,0 +1,11 @@
+#SOLVING ARITHMATIC
+
+#GIVEN DATA
+#V=TW+FW
+# w=(FW*4)+(TW*2)
+
+#W/2=TW+2FW
+
+V=200
+W=540
+IF(V>=W)
